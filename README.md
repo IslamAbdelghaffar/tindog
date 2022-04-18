@@ -1,8 +1,8 @@
 # Languages used 
-+HTML 5 
-+CSS
++ HTML 5 
+- CSS
 # FrameWorks used
-+Bootstrap 5
++ Bootstrap 5
 
 # Authors
 Islam Abdelghaffar IslamAbdelghaffar
