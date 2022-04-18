@@ -1,7 +1,7 @@
 # Languages used 
 + HTML 5 
 - CSS
-# FrameWorks used
+# Frameworks used
 + Bootstrap 5
 
 # Authors
